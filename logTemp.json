@@ -1,0 +1,11 @@
+
+{
+	"SetSource":[
+		"SetSource p 1,s,1",
+		"CreatePipeline",
+		"Activate"
+	],
+
+	"SetService":[
+	]
+}
